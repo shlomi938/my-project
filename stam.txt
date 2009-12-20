@@ -15,5 +15,3 @@ a change in my clone
 another change in clone
  
 a change in head
-
-a change in clone i want to push to master
