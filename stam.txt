@@ -19,3 +19,5 @@ a change in head
 some change
 
 interacvive adding
+
+before stashing
