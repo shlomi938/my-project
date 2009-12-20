@@ -21,3 +21,5 @@ some change
 interacvive adding
 
 before stashing
+
+test stashing
