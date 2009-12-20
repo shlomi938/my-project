@@ -25,3 +25,4 @@ test stashing
 yet another..
 
 change editor
+ti vi
