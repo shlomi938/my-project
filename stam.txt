@@ -23,3 +23,5 @@ before stashing
 test stashing
 
 yet another..
+
+change editor
