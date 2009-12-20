@@ -1,0 +1,25 @@
+stam file
+
+this is a change on master
+
+my first change
+
+this is a change in my-branch
+
+this is a change in branch_1
+ 
+another change
+
+a change in my clone
+
+another change in clone
+ 
+a change in head
+
+some change
+
+interacvive adding
+
+before stashing
+
+test stashing
